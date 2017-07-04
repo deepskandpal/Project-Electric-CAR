@@ -1,0 +1,16 @@
+.\build\callchain.o: mbed-os/platform/CallChain.cpp
+.\build\callchain.o: mbed_config.h
+.\build\callchain.o: mbed-os/./platform/CallChain.h
+.\build\callchain.o: mbed-os/./platform/Callback.h
+.\build\callchain.o: mbed-os/./platform/mbed_assert.h
+.\build\callchain.o: mbed-os/./platform/mbed_preprocessor.h
+.\build\callchain.o: mbed-os/./platform/toolchain.h
+.\build\callchain.o: mbed-os/targets/TARGET_NXP/TARGET_LPC176X/device/cmsis.h
+.\build\callchain.o: mbed-os/targets/TARGET_NXP/TARGET_LPC176X/device/LPC17xx.h
+.\build\callchain.o: mbed-os/cmsis/core_cm3.h
+.\build\callchain.o: mbed-os/cmsis/core_cmInstr.h
+.\build\callchain.o: mbed-os/cmsis/core_cmFunc.h
+.\build\callchain.o: mbed-os/targets/TARGET_NXP/TARGET_LPC176X/device/system_LPC17xx.h
+.\build\callchain.o: mbed-os/targets/TARGET_NXP/TARGET_LPC176X/device/cmsis_nvic.h
+.\build\callchain.o: mbed-os/targets/TARGET_NXP/TARGET_LPC176X/device/cmsis.h
+.\build\callchain.o: mbed-os/./platform/critical.h
