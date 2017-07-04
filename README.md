@@ -1,0 +1,1 @@
+This is a working code sample for S.S.D 1306 driver based O-led displays . It is written in C++ and it used m-bed 0S libraries for execution, it is compatible with arm m-bed boards as well as explore embedded boards hosting lpc1768
